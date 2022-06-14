@@ -1,0 +1,32 @@
+c:\users\moises\documents\visual studio 2012\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+c:\users\moises\documents\visual studio 2012\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+c:\users\moises\documents\visual studio 2012\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+c:\users\moises\documents\visual studio 2012\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+c:\users\moises\documents\visual studio 2012\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+c:\users\moises\documents\visual studio 2012\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+c:\users\moises\documents\visual studio 2012\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+c:\users\moises\documents\visual studio 2012\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+c:\users\moises\documents\visual studio 2012\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+D:\materias\324\codigos2\05-23 WindowsFormsApplication8 (2)\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+D:\materias\324\codigos2\05-23 WindowsFormsApplication8 (2)\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+D:\materias\324\codigos2\05-23 WindowsFormsApplication8 (2)\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+D:\materias\324\codigos2\05-23 WindowsFormsApplication8 (2) - copia\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojAssemblyReference.cache
+D:\materias\324\codigos2\05-23 WindowsFormsApplication8 (2) - copia\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+D:\materias\324\codigos2\05-23 WindowsFormsApplication8 (2) - copia\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+D:\materias\324\codigos2\05-23 WindowsFormsApplication8 (2) - copia\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.cache
+D:\materias\324\codigos2\05-23 WindowsFormsApplication8 (2) - copia\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.CoreCompileInputs.cache
+D:\materias\324\codigos2\05-23 WindowsFormsApplication8 (2) - copia\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+D:\materias\324\codigos2\05-23 WindowsFormsApplication8 (2) - copia\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+D:\materias\324\codigos2\05-23 WindowsFormsApplication8 (2) - copia\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+D:\materias\324\codigos2\05-23 WindowsFormsApplication8 (2) - copia\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+D:\materias\324\codigos2\05-23 WindowsFormsApplication8 (2) - copia\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+D:\materias\324\codigos2\324_proyecto-e2\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+D:\materias\324\codigos2\324_proyecto-e2\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+D:\materias\324\codigos2\324_proyecto-e2\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+D:\materias\324\codigos2\324_proyecto-e2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojAssemblyReference.cache
+D:\materias\324\codigos2\324_proyecto-e2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+D:\materias\324\codigos2\324_proyecto-e2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+D:\materias\324\codigos2\324_proyecto-e2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.cache
+D:\materias\324\codigos2\324_proyecto-e2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.CoreCompileInputs.cache
+D:\materias\324\codigos2\324_proyecto-e2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+D:\materias\324\codigos2\324_proyecto-e2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb

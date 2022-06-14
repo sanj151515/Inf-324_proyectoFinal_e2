@@ -1,0 +1,7 @@
+Create table imagen(
+nombre nvarchar(20),
+foto varbinary(max),
+punto1 nvarchar(12),
+punto2 nvarchar(12),
+punto3 nvarchar(12)
+)
